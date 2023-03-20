@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I think I am humble, Calm and funny too.**
 
-- My another Github Profile --> Nitin98125
+- My another Github Profile is [https://github.com/Nitin98125](https://github.com/Nitin98125)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
