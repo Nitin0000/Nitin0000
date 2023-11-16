@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nitin</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
-- 🔭 I’m currently working on [Padoc](https://github.com/Nitin0000/Padoc-2.0)
+- 🔭 I’m currently working on [StrokeNet](https://github.com/Nitin0000/StrokeNet_2.O)
 
 - 🌱 I’m currently learning **Angular and Machine Learning**
 
